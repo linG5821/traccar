@@ -17,6 +17,11 @@
     <entry key='logger.fullStackTraces'>true</entry>
 
     <entry key='mail.debug'>true</entry>
+    <entry key='notificator.types'>web,mail,command,whatsapp</entry>
+    <entry key='notificator.whatsapp.token'>EAARlAxqGeR8BQre5TebbUTzibURuZB1akhBdnIPrauu5ZB3VZCQYneAg0mTsQb3yzxe16VmvEplBLnyACLDvlOL4GqE9Jmpf2l5vT8NZC3TGKKIPRAsbi3t6nmZBgBZA1mCRUHfZAL3apEWiDZBjGfp9N1ppA7A27nIToP8J56uVt3IZBrrdmneBJ3bov7N8344yh5uppl08f3ZA4cyioKhS5L97kTZBZCfbQm4eVBcTQGwIg2nkZAhAD3c2oPPTECVdVunnZC5vj9iSxR9BssQRjnd9oKIUh2jbGnrRDGsCZAd1enhkgZDZD</entry>
+    <entry key='notificator.whatsapp.phoneNumberId'>994377017096023</entry>
+    <entry key='notificator.whatsapp.templateName'>traccar_notification</entry>
+    <entry key='notificator.whatsapp.templateLanguage'>en_US</entry>
 
     <entry key='database.driver'>org.h2.Driver</entry>
     <entry key='database.url'>jdbc:h2:./target/database</entry>
